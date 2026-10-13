@@ -1,1 +1,1 @@
-**Сайт:** https://ksu-lgtm.github.io
+**Сайт:** https://ksu-lgtm/my-site.github.io
